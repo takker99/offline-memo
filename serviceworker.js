@@ -30,7 +30,6 @@ globalThis.addEventListener("fetch", (event) => {
 
       const request = event.request;
 
-
       // try to get the resource from the network
       try {
         const res = await fetch(request);
