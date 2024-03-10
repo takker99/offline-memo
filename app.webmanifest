@@ -1,0 +1,65 @@
+{
+    "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+    "description": "Offline memo app",
+    "display": "minimal-ui",
+    "icons": [
+        {
+            "sizes": "36x36",
+            "src": "./img/android-chrome-36x36.png",
+            "type": "image/png"
+        },
+        {
+            "sizes": "48x48",
+            "src": "./img/android-chrome-48x48.png",
+            "type": "image/png"
+        },
+        {
+            "sizes": "72x72",
+            "src": "./img/android-chrome-72x72.png",
+            "type": "image/png"
+        },
+        {
+            "sizes": "96x96",
+            "src": "./img/android-chrome-96x96.png",
+            "type": "image/png"
+        },
+        {
+            "sizes": "128x128",
+            "src": "./img/android-chrome-128x128.png",
+            "type": "image/png"
+        },
+        {
+            "sizes": "144x144",
+            "src": "./img/android-chrome-144x144.png",
+            "type": "image/png"
+        },
+        {
+            "sizes": "152x152",
+            "src": "./img/android-chrome-152x152.png",
+            "type": "image/png"
+        },
+        {
+            "sizes": "192x192",
+            "src": "./img/android-chrome-192x192.png",
+            "type": "image/png"
+        },
+        {
+            "sizes": "256x256",
+            "src": "./img/android-chrome-256x256.png",
+            "type": "image/png"
+        },
+        {
+            "sizes": "384x384",
+            "src": "./img/android-chrome-384x384.png",
+            "type": "image/png"
+        },
+        {
+            "sizes": "512x512",
+            "src": "./img/android-chrome-512x512.png",
+            "type": "image/png"
+        }
+    ],
+    "name": "offline-memo",
+    "scope": "./",
+    "start_url": "./"
+}
